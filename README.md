@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danisher
 - 🏫 I'm studying in UWA, majoring in Computer Science and Data Science 
-- 👀 I’m interested in VR-AR-XR, 3D Printing, Metaverse, Cryptocurrencies
+- 👀 I’m interested in VR-AR-XR, 3D Printing, Virtual Worlds
 - 🌱 I’m currently learning Web-Dev and Mobile-Dev
 - 📫 How to reach me: https://www.instagram.com/danish.er
 
