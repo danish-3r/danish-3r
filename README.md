@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danisher
-- 🏫 I recntly completed my studies at the University of Western Australia(UWA), majoring in Computer Science and Data Science.
-- 👀 I’m interested in Full-Stack Development, VR/AR and Automation.
+- 🏫 I recntly completed my studies at the University of Western Australia(UWA) with Bachelors of Science(BSc), majoring in Computer Science and Data Science.
+- 👀 I’m interested in Web Development, VR/AR and Automation.
 - 🌱 I’m currently learning deeper on Full-Stack Development and AWS(Amazon Web Services)
 - 📫 How to reach me: 
   - Email: danish3r@gmail.com
